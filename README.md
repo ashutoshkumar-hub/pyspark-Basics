@@ -9,4 +9,4 @@
 7) file name - ArrayTypeNotebook and ArrayTypeFunctionsNotebook (These files contain array type concepts as well as some examples)
 8) file name - structTypeStructField (This file contain concept of struct type and struct field in pyspark)
 9) file name - MapTypeNotebook (In this file contain concepts of Map functions and about its uses)
-10) 
+10) file name - rowNotebook (In this file concept of row functions and how to create row class in pyspark and about its uses also)
