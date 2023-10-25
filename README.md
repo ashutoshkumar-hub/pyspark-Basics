@@ -8,3 +8,5 @@
 6) file name - withColumnNotebook (In this file contains concept of withColumn() function like withColumn() is a transformation function of DataFrame which is used to change the value, convert the datatype of an existing column, create a new column, and many more)
 7) file name - ArrayTypeNotebook and ArrayTypeFunctionsNotebook (These files contain array type concepts as well as some examples)
 8) file name - structTypeStructField (This file contain concept of struct type and struct field in pyspark)
+9) file name - MapTypeNotebook (In this file contain concepts of Map functions and about its uses)
+10) 
