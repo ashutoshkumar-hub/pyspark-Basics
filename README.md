@@ -10,3 +10,6 @@
 8) file name - structTypeStructField (This file contain concept of struct type and struct field in pyspark)
 9) file name - MapTypeNotebook (In this file contain concepts of Map functions and about its uses)
 10) file name - rowNotebook (In this file concept of row functions and how to create row class in pyspark and about its uses also)
+11) file name - colNotebook (In this file contains concepts of column class i.e. column class represents a single column in a DataFrame)
+12) file name - whenOtherwise (In this file concepts of when and otherwise functions of pyspark)
+13) file name - aggFunction
