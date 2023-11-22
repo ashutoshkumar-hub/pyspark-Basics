@@ -12,4 +12,5 @@
 10) file name - rowNotebook (In this file concept of row functions and how to create row class in pyspark and about its uses also)
 11) file name - colNotebook (In this file contains concepts of column class i.e. column class represents a single column in a DataFrame)
 12) file name - whenOtherwise (In this file concepts of when and otherwise functions of pyspark)
-13) file name - aggFunction
+13) file name - aggregatefunctionNotebook (In this file contains concepts of all aggregate functions of pyspark)
+14) 
