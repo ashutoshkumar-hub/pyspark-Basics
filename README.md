@@ -13,4 +13,5 @@
 11) file name - colNotebook (In this file contains concepts of column class i.e. column class represents a single column in a DataFrame)
 12) file name - whenOtherwise (In this file concepts of when and otherwise functions of pyspark)
 13) file name - aggregatefunctionNotebook (In this file contains concepts of all aggregate functions of pyspark)
-14) 
+14) file name - filterWhereNotebook, distinctNotebook, orderByNotebook, unionNotebook, groupByNotebook (In these file contains concepts of these functions and examples of these functions)
+15) 
